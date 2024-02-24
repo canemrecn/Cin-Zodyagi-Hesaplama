@@ -1,0 +1,3 @@
+INDEX VERSION 1.132+C:\Users\user\Java Projeleri\Mini Projeler\Çin Zodyağı Hesaplama\.metadata\.plugins\org.eclipse.jdt.core
+364357580.index
+1865797976.index
